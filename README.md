@@ -7,7 +7,7 @@ Photo-sensors pick up signals transmitted at a certain frequency from other play
 
 Code is downloaded onto an SD card and serves as memory on a microprocessor board. Speaker, battery pack, and laser tag gun are attached to the pack. Photo-sensors are arrayed on the straps of the pack that serve as input to the system. 
 
-![image of laser tag pack](laser_tag_pack.png)
+![image of laser tag pack](/laser_tag_pack.png)
 
 As an extension to the project, we switched out the gun for a glove that we built, similar to an Iron Man glove. 
 Here's a link to a video that shows the implemented design (including the glove):
